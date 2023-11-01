@@ -10,8 +10,7 @@ This repository contains a Human Resource Management System (HRMS) application b
 ## Features
 
 - **Employee Management**: The application allows you to add, update, and delete employee records.
-- **Attendance Tracking**: The application provides features to track and manage employee attendance.
-- **Payroll System**: The application includes a payroll system that calculates employee salaries based on their attendance.
+- **Payroll System**: The application includes a payroll system for employee salaries.
 - **Interactive GUI**: The application uses Tkinter, Python's standard GUI package, to provide an interactive user interface.
 
 ## Installation
@@ -26,7 +25,7 @@ This repository contains a Human Resource Management System (HRMS) application b
    ```
 4. Run the application:
    ```
-   python main.py
+   python Human resource management system.py file 
    ```
 
 ## Usage
