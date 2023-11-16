@@ -5,7 +5,8 @@
 
 ## Introduction
 
-This repository contains a Human Resource Management System (HRMS) application built with Python and Tkinter. The application provides a comprehensive solution for managing employee data.
+This repository contains a Human Resource Management System (HRMS) application built with Python and Tkinter.
+The application provides a comprehensive solution for managing employee data.
 
 ## Features
 
