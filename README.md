@@ -31,7 +31,8 @@ The application provides a comprehensive solution for managing employee data.
 
 ## Usage
 
-After launching the application, you can use the menu bar to navigate between different features of the application. You can manage employee records, track attendance, and calculate salaries using the provided features.
+After launching the application, you can use the menu bar to navigate between different features of the application.
+You can manage employee records, track attendance, and calculate salaries using the provided features.
 
 ## Contributing
 
@@ -41,4 +42,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
-Please replace `https://github.com/yourusername/HRMS-Python-GUI.git` with your actual GitHub repository URL.
+Please replace `https://github.com/Loki4056/HRMS-Python-GUI.git` with your actual GitHub repository URL.
