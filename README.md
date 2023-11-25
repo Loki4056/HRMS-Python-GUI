@@ -12,7 +12,7 @@ The application provides a comprehensive solution for managing employee data.
 
 - **Employee Management**: The application allows you to add, update, and delete employee records.
 - **Payroll System**: The application includes a payroll system for employee salaries.
-- **Interactive GUI**: The application uses Tkinter, Python's standard GUI package, to provide an interactive user interface..
+- **Interactive GUI**: The application uses Tkinter, Python's standard GUI package, to provide an interactive user interface.
 
 ## Installation
 
